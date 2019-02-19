@@ -1,0 +1,19 @@
+{
+  "name": "webcomponentplayground",
+  "version": "1.0.0",
+  "description": "Testing Project for Web Components",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedstark/WebComponentPlayground.git"
+  },
+  "author": "Ted Stark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedstark/WebComponentPlayground/issues"
+  },
+  "homepage": "https://github.com/tedstark/WebComponentPlayground#readme"
+}
